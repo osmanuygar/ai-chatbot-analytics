@@ -114,8 +114,6 @@ http://localhost:5004/api/
 
 <br/>
 
-####*__Design and developed by Advanced Analytic Team__*
-
 ######TECH 
 
    [Python]: <https://www.python.org/>
