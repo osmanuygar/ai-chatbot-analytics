@@ -1,8 +1,7 @@
 # Chatbot Analytics
+This API is a Rest API of chatbot performance analysis.  
 
-  
-
-
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/45356325/181238738-62b575be-2384-4911-bb81-0c6f2d519f65.png">
 
 ## Installation
 
